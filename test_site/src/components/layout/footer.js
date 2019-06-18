@@ -11,10 +11,11 @@ class Footer extends Component {
     const data = this.props.data;
     return (
       <footer className="footer">
-        <h3>game research labs</h3>
-        {/* <p>
-          game research lab
-        </p> */}
+        <h3>Stay in Touch</h3>
+        <p>
+          Subscribe to my mailing list to receive updates and promotional
+          offers.
+        </p>
         <BuiltBy />
       </footer>
     );

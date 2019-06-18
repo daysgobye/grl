@@ -16,10 +16,8 @@ class IndexPage extends Component {
       <Layout>
         <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
         <Content>
-          <div style={{height: "50vh"}} className="bofy">
-
-          </div>
-                  </Content>
+          <p>blank page just start making!</p>
+        </Content>
       </Layout>
     );
   }
